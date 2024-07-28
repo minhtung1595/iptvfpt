@@ -1,23 +1,23 @@
 #EXTM3U FPTIPTV
-#EXTINF:0 tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD
+#EXTINF:0 tvg-chno="1" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD
 udp://@225.1.1.155:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD
+#EXTINF:0 tvg-chno="2" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD
 udp://@225.1.1.154:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
+#EXTINF:0 tvg-chno="3" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 udp://@225.1.2.247:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:0 tvg-chno="4" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 udp://@225.1.2.20:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
+#EXTINF:0 tvg-chno="5" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 udp://@225.1.1.131:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6
+#EXTINF:0 tvg-chno="6" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV6
 udp://@225.1.2.245:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
+#EXTINF:0 tvg-chno="7"  tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
 udp://@225.1.1.192:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
+#EXTINF:0 tvg-chno="8" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
 udp://@225.1.2.166:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
+#EXTINF:0 tvg-chno="9" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
 udp://@225.1.1.190:30120
-#EXTINF:0 tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
+#EXTINF:0 tvg-chno="10" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 udp://@225.1.1.128:30120
 #EXTINF:0 tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 udp://@225.1.2.249:30120
