@@ -1,4 +1,4 @@
-#EXTM3U FPT IPTV
+#EXTM3U FPTIPTV
 #EXTINF:0 tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD
 udp://@225.1.1.155:30120
 #EXTINF:0 tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD
